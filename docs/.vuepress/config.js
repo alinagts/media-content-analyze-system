@@ -15,7 +15,7 @@ module.exports = {
     }]
   ],
   port: 3030,
-  base: '/docs/',
+  base: '/media-content-analyze-system/',
   theme: 'cool',
   // dest: 'dist',
   head: [
@@ -76,7 +76,7 @@ module.exports = {
 
     lastUpdated: 'Останнє оновлення', // string | boolean
       // Assumes GitHub. Can also be a full GitLab url.
-    repo: 'https://github.com/boldak/edu-db-cw',
+    repo: 'https://github.com/SavageVictor/media-content-analyze-system',
     // Customising the header label
     // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
     repoLabel: 'Github',
@@ -95,8 +95,8 @@ module.exports = {
     // editLinkText: 'Ви можете покращити цю сторінку'
 
   },
-  title: 'Назва проєкту',
-  description: 'Курсова робота з дисципліни "Бази даних"',
+  title: 'Система аналізу медіа-контенту',
+  description: 'Лабораторні роботи з дисципліни "Бази даних"',
   configureWebpack: {
     resolve: {
       alias: {
