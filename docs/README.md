@@ -9,21 +9,21 @@ footer: "ECL 2.0 Licensed | Copyright © [2022] [???]"
 
 **Виконали:** 
 
-*студент(-ка) 2-го курсу, групи IM-11*<span padding-right:5em></span> **Алексєєнко Данііл [TBA]**
+*студент(-ка) 2-го курсу, групи IM-11*<span padding-right:5em></span> **Алексєєнко Данііл [https://t.me/dead_chertila]**
 
-*студент(-ка) 2-го курсу, групи IM-11*<span padding-right:5em></span> **Букач Кирило [@llumiss]**
+*студент(-ка) 2-го курсу, групи IM-11*<span padding-right:5em></span> **Букач Кирило [https://t.me/llumiss]**
 
-*студент(-ка) 2-го курсу, групи IM-11*<span padding-right:5em></span> **Карімлі Зія [TBA]**
+*студент(-ка) 2-го курсу, групи IM-11*<span padding-right:5em></span> **Карімлі Зія [https://t.me/ziya_04]**
 
-*студент(-ка) 2-го курсу, групи IM-11*<span padding-right:5em></span> **Мороченець Владислав  [TBA]**
+*студент(-ка) 2-го курсу, групи IM-11*<span padding-right:5em></span> **Мороченець Владислав  [https://t.me/vladmoroca]**
 
-*студент(-ка) 2-го курсу, групи IM-11*<span padding-right:5em></span> **Олійник Віктор [@VictorOliinyk]**
+*студент(-ка) 2-го курсу, групи IM-11*<span padding-right:5em></span> **Олійник Віктор [https://t.me/VictorOliinyk]**
 
-*студент(-ка) 2-го курсу, групи IM-11*<span padding-right:5em></span> **Пономаренко Маргарита [TBA]**
+*студент(-ка) 2-го курсу, групи IM-11*<span padding-right:5em></span> **Пономаренко Маргарита [https://t.me/margo_ponomarenko]**
 
-*студент(-ка) 2-го курсу, групи IM-11*<span padding-right:5em></span> **Шамота Діана [TBA]**
+*студент(-ка) 2-го курсу, групи IM-11*<span padding-right:5em></span> **Шамота Діана [https://t.me/shamotaaa]**
 
-*студент(-ка) 2-го курсу, групи IM-11*<span padding-right:5em></span> **Щегель Андрій [TBA]**
+*студент(-ка) 2-го курсу, групи IM-11*<span padding-right:5em></span> **Щегель Андрій [https://t.me/SolarUlt]**
 
 **Керівник**
 
