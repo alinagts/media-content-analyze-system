@@ -47,9 +47,9 @@
 
 **Text mining** – вид ефективного аналізу тексту, що виявляє відношення, які можуть призвести до відкриття нових знань. Його метою є отримання інформації з масиву текстових документів, ґрунтуючись на застосуванні ефективних методів машинного навчання і обробки природної мови, а також проведення смислового аналізу для забезпечення можливостей навігації і пошуку. [1]
 Завдання Text Mining:
-1) Класифікація/віднесення об'єктів бази даних до категорій, які були попередньо створені. 
-2) Кластеризація, яка полягає у виділенні компактних підгруп об'єктів з подібними властивостями. Тут система має сама знайти подібні ознаки і розділити об'єкти на підгрупи.
-3) Пошук об'єктів, які своїми характеристиками сильно відрізняються від загального масиву. 
+- Класифікація/віднесення об'єктів бази даних до категорій, які були попередньо створені. 
+- Кластеризація, яка полягає у виділенні компактних підгруп об'єктів з подібними властивостями. Тут система має сама знайти подібні ознаки і розділити об'єкти на підгрупи.
+- Пошук об'єктів, які своїми характеристиками сильно відрізняються від загального масиву. 
 
 **Natural Language Processing** - напрямок штучного інтелекту і математичної лінгвістики. Воно вивчає проблеми комп'ютерного аналізу і синтезу природних мов. Стосовно до штучного інтелекту аналіз означає розуміння мови, а синтез - генерацію грамотного тексту. [6]
 
@@ -57,8 +57,8 @@
 
 **Named-entity recognition** - є підзадачею на вилучення інформації, яка спрямована на пошук та класифікацію за заздалегідь визначеними категоріями. [8]
 Завдання NER: 
-1) виявити, що якась послідовність слів це іменована сутність; 
-2) зрозуміти, до якого класу (ім'я людини, назва організації, місто тощо) ця іменована сутність належить. [9]
+- Виявити, що якась послідовність слів це іменована сутність.
+- Зрозуміти, до якого класу (ім'я людини, назва організації, місто тощо) ця іменована сутність належить. [9]
 
 **Emotions Detection** - це процес ідентифікації людських емоцій. [10]
 
@@ -90,16 +90,16 @@
 
 ## Посилання
 
-[[1] Контент-аналіз](https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82-%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D0%B7)
-[[2] Methods for Media Analysis](https://www.restore.ac.uk/lboro/research/methods/index.php)
-[[3] Frame Analysis](https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D0%B7)
-[[4] Discourse Analysis](https://en.wikipedia.org/wiki/Discourse_analysis)
-[[5] Data Mining](https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D0%B1%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B4%D0%B0%D0%BD%D0%B8%D1%85)
-[[6] Natural Language Processing](https://uk.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D0%BE%D0%B1%D0%BA%D0%B0_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D1%97_%D0%BC%D0%BE%D0%B2%D0%B8)
-[[7] Tokenization](https://en.wikipedia.org/wiki/Tokenization_(data_security))
-[[8] Named Entity Recognition](https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%BF%D1%96%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D1%96%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%85_%D1%81%D1%83%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9)
-[[9] Named Entity Recognition](https://sysblok.ru/glossary/named-entity-recognition-ner/)
-[[10] Emotion Recognition](https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%BF%D1%96%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B5%D0%BC%D0%BE%D1%86%D1%96%D0%B9)
-[[11] Word2vec](https://neerc.ifmo.ru/wiki/index.php?title=%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D0%BB%D0%BE%D0%B2#word2vec)
-[[12] Deep Learning](https://uk.wikipedia.org/wiki/%D0%93%D0%BB%D0%B8%D0%B1%D0%B8%D0%BD%D0%BD%D0%B5_%D0%BD%D0%B0%D0%B2%D1%87%D0%B0%D0%BD%D0%BD%D1%8F)
+[[1] Контент-аналіз](https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D1%82-%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D0%B7)\n
+[[2] Methods for Media Analysis](https://www.restore.ac.uk/lboro/research/methods/index.php)\n
+[[3] Frame Analysis](https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BC%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D0%B7)\n
+[[4] Discourse Analysis](https://en.wikipedia.org/wiki/Discourse_analysis)\n
+[[5] Data Mining](https://uk.wikipedia.org/wiki/%D0%94%D0%BE%D0%B1%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B4%D0%B0%D0%BD%D0%B8%D1%85)\n
+[[6] Natural Language Processing](https://uk.wikipedia.org/wiki/%D0%9E%D0%B1%D1%80%D0%BE%D0%B1%D0%BA%D0%B0_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D1%97_%D0%BC%D0%BE%D0%B2%D0%B8)\n
+[[7] Tokenization](https://en.wikipedia.org/wiki/Tokenization_(data_security))\n
+[[8] Named Entity Recognition](https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%BF%D1%96%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D1%96%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%85_%D1%81%D1%83%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9)\n
+[[9] Named Entity Recognition](https://sysblok.ru/glossary/named-entity-recognition-ner/)\n
+[[10] Emotion Recognition](https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%BF%D1%96%D0%B7%D0%BD%D0%B0%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B5%D0%BC%D0%BE%D1%86%D1%96%D0%B9)\n
+[[11] Word2vec](https://neerc.ifmo.ru/wiki/index.php?title=%D0%92%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D0%BB%D0%BE%D0%B2#word2vec)\n
+[[12] Deep Learning](https://uk.wikipedia.org/wiki/%D0%93%D0%BB%D0%B8%D0%B1%D0%B8%D0%BD%D0%BD%D0%B5_%D0%BD%D0%B0%D0%B2%D1%87%D0%B0%D0%BD%D0%BD%D1%8F)\ns
 [[13] Tensor Flow](https://uk.wikipedia.org/wiki/TensorFlow)
