@@ -77,18 +77,18 @@
 
 ## Порівняльна характеристика існуючих засобів вирішення завдання
 
--[Semantrum](https://promo.semantrum.net/uk/main-ua/) 
--[Neticle Media Intelligence](https://neticle.com/mediaintelligence/en)
--[YouScan](https://youscan.io/)
--[SemanticForce](https://semanticforce.net/en/) 
--[IQBuzz](https://iqbuzz.pro/)
--[UkrContent](https://ukrcontent.com/)
--[Meltwater](https://www.meltwater.com/) 
--[M-Brain](https://www.m-brain.com/ru/) 
--[Mediascope](https://mediascope.net/)
--[Brand Analytics](https://br-analytics.ru/)
--[Babkee](http://www.babkee.ru/)
--[Крібрум](https://kribrum.io/?utm_source=soware&utm_medium=organic&utm_campaign=candidate&utm_term=kribrum-public-search&utm_content=product-info) 
+-[Semantrum](https://promo.semantrum.net/uk/main-ua/)<br /> 
+-[Neticle Media Intelligence](https://neticle.com/mediaintelligence/en)<br />
+-[YouScan](https://youscan.io/)<br />
+-[SemanticForce](https://semanticforce.net/en/)<br /> 
+-[IQBuzz](https://iqbuzz.pro/)<br />
+-[UkrContent](https://ukrcontent.com/)<br />
+-[Meltwater](https://www.meltwater.com/)<br /> 
+-[M-Brain](https://www.m-brain.com/ru/)<br /> 
+-[Mediascope](https://mediascope.net/)<br />
+-[Brand Analytics](https://br-analytics.ru/)<br />
+-[Babkee](http://www.babkee.ru/)<br />
+-[Крібрум](https://kribrum.io/?utm_source=soware&utm_medium=organic&utm_campaign=candidate&utm_term=kribrum-public-search&utm_content=product-info)<br /> 
 
 *Оцінка за 5-бальною шкалою (5 - дуже добре, 0 - незадовільно)*
 
@@ -113,7 +113,7 @@
 
 ## Висновки
 
-*[Робляться висновки щодо доцільності розробки нової або модифікації існуючої інформаційної системи, необхідності та способів інтеграції з системами(сервісами) третіх сторін, тощо.]*
+Проаналізувавши предметну область, нам стало зрозуміло що є потреба в новій покращеній системі, тому ми вирішили ропочати розробку нової системи аналізу медіа контенту. Розробка буде відбуватися враховуючи всі недоліки проаналізованих систем.
 
 ## Посилання
 
