@@ -5,6 +5,7 @@
 **Загальна діаграма до вимог функціональності програми**  
 
 @startuml  
+
   actor "Гість" as Guest  
   actor "Користувач" as User  
   actor "Адміністратор" as Admin  
@@ -35,11 +36,13 @@
   Admin -l-> AddSource  
   Admin --> Rights  
   Admin --> Statistic  
+  
 @enduml  
   
   
 
 @startuml  
+
   actor "Користувач" as User  
 
   usecase "Звертання за допомогою" as Help  
@@ -62,4 +65,5 @@
 
   User -> Help  
   User --> Sources  
+  
 @enduml  
