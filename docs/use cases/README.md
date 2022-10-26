@@ -1,8 +1,7 @@
 # Модель прецедентів
 
-В цьому файлі необхідно перелічити всі документи, розроблені в проекті та дати посилання на них.
-
 **Загальна діаграма до вимог функціональності програми**  
+Нижче наведені основні можливості для кожної с груп користувачів
 
 @startuml  
 
@@ -10,8 +9,8 @@
     actor "Користувач" as User  
     actor "Адміністратор" as Admin  
   
-    User -u-|> Guest  
-    Admin -u-|> User  
+    Guest  --|> User  
+    User  --|> Admin 
 
     usecase "Реєстрація" as Registration  
 
@@ -56,7 +55,7 @@
     usecase "Додати" as Add  
     usecase "Видалити" as Remove  
     usecase "Прийняти зміни" as Accept  
-    usecase "Відмовитись від змін" as Cancel  
+    usecase "Скасувати зміни" as Cancel  
 
     Add .u.> Sources  
     Remove .u.> Sources  
