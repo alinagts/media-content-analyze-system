@@ -3,9 +3,9 @@
 В цьому файлі необхідно перелічити всі документи, розроблені в проекті та дати посилання на них.
 
 **Загальна діаграма до вимог функціональності програми**  
-
-@startuml  
 ```
+@startuml  
+
   actor "Гість" as Guest  
   actor "Користувач" as User  
   actor "Адміністратор" as Admin  
@@ -36,13 +36,13 @@
   Admin -l-> AddSource  
   Admin --> Rights  
   Admin --> Statistic  
- ```
-@enduml  
-  
-  
 
-@startuml  
+@enduml  
 ```
+  
+```
+@startuml  
+
   actor "Користувач" as User  
 
   usecase "Звертання за допомогою" as Help  
@@ -65,5 +65,6 @@
 
   User -> Help  
   User --> Sources  
-```
+
 @enduml  
+```
