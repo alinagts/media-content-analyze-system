@@ -21,9 +21,7 @@ footer: "ECL 2.0 Licensed | Copyright © [2022] [???]"
 
 *студентка 2-го курсу, групи IM-11*<span padding-right:5em></span> **Пономаренко Маргарита [telegram](https://t.me/margo_ponomarenko)**
 
-*студентка 2-го курсу, групи IM-11*<span padding-right:5em></span> **Шамота Діана [telegram](https://t.me/shamotaaa)**
-
-*студент 2-го курсу, групи IM-11*<span padding-right:5em></span> **Щегель Андрій [telegram](https://t.me/SolarUlt)**
+*студентка 2-го курсу, групи IM-11*<span padding-right:5em></span> **Годованець Аліна [telegram](https://t.me/alina81g)**
 
 **Керівник**
 
