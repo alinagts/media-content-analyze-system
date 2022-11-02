@@ -75,6 +75,10 @@
 
 **Tensor Flow** - програмна бібліотека для реалізації машинного навчання, була розроблена компанією Google для задоволення потреб у тренуванні нейронних мереж, виявленні та розшифруванні образів та кореляцій, аналогічно до людського навчання й розуміння. Застосовується для досліджень та розробки, для розпізнавання мови, виділення облич на фотографіях, визначення схожих зображень, відсіювання спаму, підбору новин, перекладу з урахуванням смислу. [18]
 
+![alt text](https://github.com/SavageVictor/media-content-analyze-system/blob/master/docs/requirements/img/image1.png?raw=true)
+
+![alt text](https://github.com/SavageVictor/media-content-analyze-system/blob/master/docs/requirements/img/image2.png?raw=true)
+
 ### Доповнення
 Підсистеми вибірки даних
 
