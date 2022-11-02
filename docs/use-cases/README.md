@@ -71,6 +71,9 @@
 ### ГІСТЬ
 
 **РЕЄСТРАЦІЯ**  
+
+![alt text](https://github.com/SavageVictor/media-content-analyze-system/blob/master/docs/use-cases/img/1.jpg?raw=true)
+
 ***Виключні ситуації:***  
 1. Обліковий запис з введеними даними реєстрації вже існує (код помилки: user.reg_err1)  
 
@@ -100,6 +103,9 @@
 ### КОРИСТУВАЧ
 
 **АВТОРИЗАЦІЯ**  
+
+![alt text](https://github.com/SavageVictor/media-content-analyze-system/blob/master/docs/use-cases/img/2.jpg?raw=true)
+
 ***Виключні ситуації:***  
 1. Облікового запису з введеними даними реєстрації не існує (код помилки: user.login_err1)  
 
@@ -128,6 +134,9 @@
 @enduml 
 
 **ЗАПИТ НА ЗНАХОДЖЕННЯ ТА АНАЛІЗ ДАНИХ**  
+
+![alt text](https://github.com/SavageVictor/media-content-analyze-system/blob/master/docs/use-cases/img/3.jpg?raw=true)
+
 ***Виключні ситуації:***  
 1. Система не розпізнала введену користувачем інформацію(код помилки: user.search_err1)  
 2. Система не знайшла інформації за запитом користувача(код помилки: user.search_err2)
