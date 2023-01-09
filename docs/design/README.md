@@ -56,5 +56,6 @@ Result.description --* Result
 @enduml
 
 - ER-модель
+
 - реляційна схема
 
