@@ -55,8 +55,28 @@ Result.description --* Result
 
 @enduml
 
-- ER-модель
+# ER-модель
 
-- реляційна схема
+@startuml
+
+entity User { name: TEXT login: TEXT password: TEXT email: TEXT role: TEXT }
+
+entity Request { id: INT title: TEXT description: TEXT date: DATETIME }
+
+entity Source { id: INT url: TEXT }
+
+entity Filter { date_from: DATETIME date_to: DATETIME }
+
+entity Help { id: INT title: TEXT description: TEXT }
+
+entity Result { id: INT title: TEXT description: TEXT }
+
+entity Access { role: TEXT }
+
+User "1,1" -- "0," Access Access "0," -- "1,1" Request Access "0," -r- "1,1" Help Request "0," -- "1," Source Request "1,1" -u- "0," Result Request "0,1" -r- "1,1" Filter
+
+@enduml
+
+# Реляційна схема
 
 <img src="images/schema.png">
