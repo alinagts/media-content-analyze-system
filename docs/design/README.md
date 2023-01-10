@@ -59,3 +59,4 @@ Result.description --* Result
 
 - реляційна схема
 
+<img src="images/schema.png">
